@@ -12,6 +12,7 @@ public class DynamicProgramming {
 
         int result2 = fObject.fibonacciFunc_dynamic(9);
         System.out.println(result2);
+
     }
 
     private int fibonacciFunc_dynamic(int i) {
