@@ -1,6 +1,8 @@
 import java.util.Arrays;
 
 public class Level0_연속된수의합 {
+
+//    https://school.programmers.co.kr/learn/courses/30/lessons/120923
     public static void main(String[] args) {
         int num = 4;
         int total = 14;

@@ -1,5 +1,6 @@
 public class Level0_다음에올숫자 {
 
+//    https://school.programmers.co.kr/learn/courses/30/lessons/120924
     public static void main(String[] args) {
 
 //        int[] common = {1, 2, 3, 4};  // result : 5
