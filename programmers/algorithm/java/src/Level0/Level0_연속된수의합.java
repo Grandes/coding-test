@@ -1,3 +1,5 @@
+package Level0;
+
 import java.util.Arrays;
 
 public class Level0_연속된수의합 {

@@ -1,3 +1,5 @@
+package Level0;
+
 public class Level0_다음에올숫자 {
 
 //    https://school.programmers.co.kr/learn/courses/30/lessons/120924
